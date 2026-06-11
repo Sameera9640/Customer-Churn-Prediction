@@ -1,3 +1,4 @@
+
 # Customer Churn Prediction Using Machine Learning
 
 ## Project Overview
@@ -66,4 +67,4 @@ streamlit run app.py
 ## Author
 
 Sameera
-Aspiring Python Developer and Data Science Enthusiast
+Aspiring Python Developer and Data Science Enthusiasts
